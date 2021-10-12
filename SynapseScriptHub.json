@@ -1,1 +1,53 @@
 
+{
+    "scriptHub": {
+         "Dex Explorer": { 
+            "Name": "Dex Explorer", 
+            "source": "https://raw.githubusercontent.com/Fujijared2810/dexxx/main/dex", 
+            "Description": "This is a game explorer( really useful for lua devs)", 
+            "Picture": "https://i.gyazo.com/b89d5c8f16837504f68d228333a0350b.png"
+        },
+        "Cmd X":{
+            "Name": "Cmd X", 
+            "source": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", 
+            "Description": "An admin command's script", 
+            "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890034644127481927/t8BF4Th.png"
+        },
+        "Infinite Yield":{
+            "Name": "Infinite Yield", 
+            "source": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", 
+            "Description": "An admin command's script", 
+            "Picture": "https://cdn.discordapp.com/attachments/856792157741121566/890033506057588836/f3658200-3abc-11ea-973a-b024e3a60673.png"
+        },
+        "Owl Hub":{
+            "Name": "Owl Hub", 
+            "source": "https://raw.githubusercontent.com/SiLeNSwOrD/OwlHub/master/OwlHub.txt", 
+            "Description": "One of the best script hubs!", 
+            "Picture": "https://cdn.discordapp.com/attachments/756137943768236133/776898131442925638/Logo.png"
+        },
+        "Dark Hub": {
+            "Name": "", 
+            "source": "", 
+            "Description": "", 
+            "Picture": ""
+        },
+       "Solaris Hub": {
+            "Name": "", 
+            "source": "", 
+            "Description": "", 
+            "Picture": ""
+       },
+      "Domain X": {
+            "Name": "", 
+            "source": "", 
+            "Description": "", 
+            "Picture": ""
+      },
+      "Unnamed ESP": {
+            "Name": "", 
+            "source": "", 
+            "Description": "", 
+            "Picture": "",
+      }
+    }
+}
